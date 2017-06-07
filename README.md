@@ -16,12 +16,12 @@
     * [Sass (Syntactically Awesome StyleSheets)](http://sass-lang.com/documentation/file.SASS_REFERENCE.html): extension of CSS that adds power and elegance to the basic language.
     * [Difference between .sass and .scss](https://responsivedesign.is/articles/difference-between-sass-and-scss/)
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
-### HTML
-* [HTML5 - Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
-* [HTML5 spec](https://www.w3.org/TR/html5/): 
-* [HTML5 - Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
-* [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
-* [HTML5 Demos and Examples](http://html5demos.com/): experimentation and demos
+### HTML5
+* [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
+* [spec](https://www.w3.org/TR/html5/): 
+* [Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
+* [Tutorial](https://www.w3schools.com/html/default.asp)
+* [Demos and Examples](http://html5demos.com/): experimentation and demos
 * [HTML5test - How well does your browser support HTML5?](https://html5test.com/): 
 
 Browser | version       | score out of 555
