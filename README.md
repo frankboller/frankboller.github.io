@@ -23,11 +23,11 @@
     - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
     - [HTML5 Demos and Examples](http://html5demos.com/): experimentation and demos
     - [HTML5test - How well does your browser support HTML5?](https://html5test.com/): 
-Browser | version       | score out of 555
-------- | ------------- | ---
-chrome  | 58.0.3029.111 | 
-edge    | 40.15063.0.0  | 473
-firefox | 53.0.3        | 474
-ie      | 11.0.42       | 312
+        - Browser | version       | score out of 555
+          ------- | ------------- | ---
+          chrome  | 58.0.3029.111 | 518
+          edge    | 40.15063.0.0  | 473
+          firefox | 53.0.3        | 474
+          ie      | 11.0.42       | 312
     
     
