@@ -1,7 +1,7 @@
 # frankboller.github.io
 ## quick notes
-* [CSS](#CSS)
-* [HTML5](#HTML5)
+* [CSS](./README.md#CSS)
+* [HTML5](./README.md#HTML5)
 ### CSS
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
     * CSS Level 3 builds on CSS Level 2 module by module
