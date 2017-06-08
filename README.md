@@ -33,7 +33,7 @@
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity
 
     Rank | DBMS          | Model                | Score   | (June 2017)
-    ---: | ---           | ---                  | ---:
+    ---: | ---           | ---                  | ---: | ---
     1    | Oracle        | Relational DBMS      | 1351.76
     5    | MongoDB       | Document store       | 335.00
     8    | Cassandra     | Wide column store    | 124.12
