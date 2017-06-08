@@ -30,25 +30,25 @@
 ----
 ## database
 ### [rankings](#toc)
-* [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity
+* [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
 
-    Rank | DBMS          | Model                | Score   | (June 2017)
-    ---: | ---           | ---                  | ---:    | ---
-    1    | Oracle        | Relational DBMS      | 1351.76 | 
-    5    | MongoDB       | Document store       | 335.00  | 
-    8    | Cassandra     | Wide column store    | 124.12  | 
-    9    | Redis         | Key-value store      | 118.89  | 
-    11   | Elasticsearch | Search engine        | 111.56  | 
-    21   | Neo4j         | Graph DBMS           | 37.87   | 
-    33   | MarkLogic     | Multi-model          | 12.13   | 
-    40   | InfluxDB      | Time Series DBMS     | 8.20    | 
-    57   | Jackrabbit    | Content store        | 4.06    | 
-    59   | Adabas        | Multivalue           | 3.89    | 
-    91   | Jena          | RDF store            | 2.22    | 
-    98   | IMS           | Navigational DBMS    | 1.82    | 
-    106  | Db4o          | Object oriented DBMS | 1.40    | 
-    109  | BaseX         | Native XML DBMS      | 1.37    | 
-    163  | Event Store   | Event Store          | 0.61    | 
+    Rank | DBMS          | Model                | Score
+    ---: | ---           | ---                  | ---:
+    1    | Oracle        | Relational DBMS      | 1351.76
+    5    | MongoDB       | Document store       | 335.00
+    8    | Cassandra     | Wide column store    | 124.12
+    9    | Redis         | Key-value store      | 118.89
+    11   | Elasticsearch | Search engine        | 111.56
+    21   | Neo4j         | Graph DBMS           | 37.87
+    33   | MarkLogic     | Multi-model          | 12.13
+    40   | InfluxDB      | Time Series DBMS     | 8.20
+    57   | Jackrabbit    | Content store        | 4.06
+    59   | Adabas        | Multivalue           | 3.89
+    91   | Jena          | RDF store            | 2.22
+    98   | IMS           | Navigational DBMS    | 1.82
+    106  | Db4o          | Object oriented DBMS | 1.40
+    109  | BaseX         | Native XML DBMS      | 1.37
+    163  | Event Store   | Event Store          | 0.61
 
 ### [nosql](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
@@ -71,7 +71,7 @@
 ----
 ## front end
 ### [css](#toc)
-* [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
+* [CSS Snapshot 2017](https://www.w3.org/TR/CSS/):
     * CSS Level 3 builds on CSS Level 2 module by module
     * There is no CSS Level 4. Independent modules can reach level 4 or beyond ...
 * [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
@@ -108,7 +108,7 @@
 * [Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
 * [Tutorial](https://www.w3schools.com/html/default.asp)
 * [Demos and Examples](http://html5demos.com/): experimentation and demos
-* [HTML5test - How well does your browser support HTML5?](https://html5test.com/): 
+* [HTML5test - How well does your browser support HTML5?](https://html5test.com/):
 
     Browser | version       | score out of 555
     ---     | ---           | ---
