@@ -118,7 +118,7 @@
 #### [SdkMan](http://sdkman.io/): Software Development Kit Manager (replacing GVM)
 
 ## testing. [(toc)](#toc)
-#### [performance](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
+#### performance: [testing](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
 * [JMH ](http://openjdk.java.net/projects/code-tools/jmh/): Java harness for building, running, and analysing benchmarks
-#### [tdd](https://en.wikipedia.org/wiki/Test-driven_development): evolutionary approach which uses test-first development
+#### tdd: [Test-driven_development](https://en.wikipedia.org/wiki/Test-driven_development): evolutionary approach which uses test-first development
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development):
