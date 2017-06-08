@@ -24,8 +24,7 @@
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
-----
-
+---- aws
 ### [AWS](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
@@ -39,6 +38,7 @@
 ### [kubernetes](#toc)
 * [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
+----
 ### [CSS](#toc)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
     * CSS Level 3 builds on CSS Level 2 module by module
@@ -56,6 +56,7 @@
     * [Difference between .sass and .scss](https://responsivedesign.is/articles/difference-between-sass-and-scss/)
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 
+----
 ### [JavaScript](#toc)
 
 #### [Angular 4](#toc)
@@ -68,6 +69,7 @@
 
 #### [jQuery](#toc)
 
+----
 ### [HTML5](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
 * [spec](https://www.w3.org/TR/html5/): W3C Recommendation
