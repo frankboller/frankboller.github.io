@@ -2,6 +2,7 @@
 ## quick notes
 * [CSS](#css)
 * [HTML5](#html5)
+* [Angular 4](#angular4)
 ### [CSS](#frankbollergithubio)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
     * CSS Level 3 builds on CSS Level 2 module by module
@@ -32,4 +33,11 @@
     edge    | 40.15063.0.0  | 473
     firefox | 53.0.3        | 474
     ie      | 11.0.42       | 312
+### [Angular 4](#frankbollergithubio)
+* [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
+* [Angular 4 Now Available](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html/): invisible-makeover - is now available
+* [What is the difference between 2 and 4](https://www.quora.com/What-is-the-difference-between-Angular-2-and-Angular-4): Semantic versioning
+* [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
+* [Top 8 Resources to Explore](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a): hackernoon
+* [Angular vs React](http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/): What to chose in 2017?
 
