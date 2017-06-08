@@ -7,9 +7,6 @@
     * [AWS: amazon web services](#aws)
     * [GCP: cloud platform](#gcp)
     * [docker](#docker)
-
-[//]: <> (This is a comment)
-
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
 * database
