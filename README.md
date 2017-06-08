@@ -27,8 +27,8 @@
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
-## cloud
 ----
+## cloud
 ### [aws](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
@@ -42,9 +42,8 @@
 ### [kubernetes](#toc)
 * [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
-[//]: <> (front end)
-
 ----
+## front end
 ### [CSS](#toc)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
     * CSS Level 3 builds on CSS Level 2 module by module
@@ -77,7 +76,6 @@
 
 #### [jquery](#toc)
 
-----
 ### [HTML5](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
 * [spec](https://www.w3.org/TR/html5/): W3C Recommendation
