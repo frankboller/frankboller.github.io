@@ -1,26 +1,31 @@
 # frankboller.github.io
 ## Quick Notes
 ### TOC
+
+[//]: <> (This is a comment)
 * cloud
-    * [aws](#aws amazon web services)
-    * [cloud platform](#cloud-platform)
+    * [AWS: amazon web services](#aws)
+    * [GCP: cloud platform](#gcp)
     * [docker](#docker)
+
+[//]: <> (This is a comment)
+
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
+* database
+    * [NoSQL](#nosql)
+        ### [NoSQL](#toc)
 * front end
     * [cascading style sheets](#css)
-    * [javascript](#javascript)
-        * [Angular 4](#angular-4)
-        * [jQuery](#jquery)
+    * [javascript](#js)
+        * [angular 4](#angular-4)
+        * [jquery](#jquery)
     * [html5](#html5)
 * languages
     * [java 8](#java-8)
         ### [java 8](#toc)
     * [SdkMan](#sdkman)
         ### [SdkMan](#toc)
-* database
-    * [NoSQL](#nosql)
-        ### [NoSQL](#toc)
 * testing
     * [performance] (#performance)
     * [test-driven development] (#tdd)
@@ -29,7 +34,7 @@
 ### [AWS](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
-### [cloud platform](#toc)
+### [GCP](#toc)
 
 ### [docker](#toc)
 
@@ -58,17 +63,19 @@
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 
 ----
-### [JavaScript](#toc)
+### [js](#toc)
 
-#### [Angular 4](#toc)
+#### [angular 4](#toc)
 * [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
+    * [JHipster ](https://jhipster.github.io/): platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices
+    * [Visual Studio Code](https://code.visualstudio.com/): code editor redefined and optimized for building and debugging modern web and cloud applications
 * [Angular 4 Now Available](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html/): invisible-makeover - is now available
 * [What is the difference between 2 and 4](https://www.quora.com/What-is-the-difference-between-Angular-2-and-Angular-4): Semantic versioning
 * [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch): tutorial
 * [Top 8 Resources to Explore](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a): hackernoon
 * [Angular vs React](http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/): What to chose in 2017?
 
-#### [jQuery](#toc)
+#### [jquery](#toc)
 
 ----
 ### [HTML5](#toc)
