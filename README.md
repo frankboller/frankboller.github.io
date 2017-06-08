@@ -29,22 +29,22 @@
 
 ----
 ## cloud
-### [aws](#toc)
+#### [aws](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
-### [gcp](#toc)
+#### [gcp](#toc)
 
-### [docker](#toc)
+#### [docker](#toc)
 
-### [fabric8](#toc)
+#### [fabric8](#toc)
 * [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
 
-### [kubernetes](#toc)
+#### [kubernetes](#toc)
 * [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ----
 ## database
-### [rankings](#toc)
+#### [rankings](#toc)
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
 
     Rank | DBMS          | Model                | Score
@@ -65,7 +65,7 @@
     109  | BaseX         | Native XML DBMS      | 1.37
     163  | Event Store   | Event Store          | 0.61
 
-### [nosql](#toc)
+#### [nosql](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
     * [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
     * [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
@@ -105,7 +105,7 @@
 
 #### [jquery](#toc)
 
-### [html5](#toc)
+#### [html5](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
 * [spec](https://www.w3.org/TR/html5/): W3C Recommendation
 * [Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
