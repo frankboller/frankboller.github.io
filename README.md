@@ -3,25 +3,25 @@
 ### TOC
 
 [//]: <> (This is a comment)
-* [cloud](#cloud)
+* [cloud](#cloud-toc)
     * [aws: amazon web services](#aws)
     * [gcp: cloud platform](#gcp)
     * [docker](#docker)
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
-* database
+* [database](#database-toc)
     * [rankings](#rankings)
     * [NoSQL](#nosql)
-* front end
+* [front end](#front-end-toc)
     * [cascading style sheets](#css)
     * [javascript](#javascript)
         * [angular 4](#angular-4)
         * [jquery](#jquery)
     * [html5](#html5)
-* languages
+* [languages](#languages-toc)
     * [java 8](#java-8)
     * [sdkman](#sdkman)
-* testing
+* [testing](#testing-toc)
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
