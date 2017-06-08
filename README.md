@@ -18,12 +18,11 @@
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 ### HTML5
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
-* [spec](https://www.w3.org/TR/html5/): 
+* [spec](https://www.w3.org/TR/html5/): W3C Recommendation
 * [Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
 * [Tutorial](https://www.w3schools.com/html/default.asp)
 * [Demos and Examples](http://html5demos.com/): experimentation and demos
 * [HTML5test - How well does your browser support HTML5?](https://html5test.com/): 
-
 Browser | version       | score out of 555
 ---     | ---           | ---
 chrome  | 58.0.3029.111 | 518
