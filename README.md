@@ -2,7 +2,7 @@
 ## quick notes
 * [CSS](#css)
 * [HTML5](#html5)
-* [Angular 4](#angular4)
+* [Angular 4](#angular-4)
 ### [CSS](#frankbollergithubio)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
     * CSS Level 3 builds on CSS Level 2 module by module
