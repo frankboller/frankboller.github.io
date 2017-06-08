@@ -10,8 +10,8 @@
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
 * database
+    * [rankings](#rankings)
     * [NoSQL](#nosql)
-        ### [NoSQL](#toc)
 * front end
     * [cascading style sheets](#css)
     * [javascript](#javascript)
@@ -26,6 +26,13 @@
 * testing
     * [performance] (#performance)
     * [test-driven development] (#tdd)
+
+----
+## database
+### [rankings](#toc)
+* [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity
+### [nosql](#toc)
+* [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases
 
 ----
 ## cloud
