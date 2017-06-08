@@ -3,12 +3,14 @@
 ### TOC
 
 [//]: <> (This is a comment)
-* [cloud](#cloud-toc)
-    * [aws: amazon web services](#aws)
-    * [gcp: cloud platform](#gcp)
+* [cloud frameworks](#cloud-frameworks-toc)
     * [docker](#docker)
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
+* [cloud platforms](#cloud-platforms-toc)
+    * [aws: amazon web services](#aws)
+    * [cloud foundry](#cloud-foundry)
+    * [gcp: cloud platform](#gcp)
 * [database](#database-toc)
     * [rankings](#rankings)
     * [NoSQL](#nosql)
@@ -26,11 +28,7 @@
     * [test-driven development] (#tdd)
 
 ----
-## cloud. [(toc)](#toc)
-#### [aws](https://aws.amazon.com/): Amazon Web Services
-* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
-
-#### [gcp](https://cloud.google.com/): Google Cloud Platform
+## cloud frameworks. [(toc)](#toc)
 
 #### [docker](https://www.docker.com/): open platform for developers and sysadmins to build, ship, and run distributed applications
 
@@ -38,9 +36,23 @@
 
 #### [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
 
+## cloud platforms. [(toc)](#toc)
+
+#### aws
+* [Amazon Web Services](https://aws.amazon.com/):  provides on-demand cloud computing platforms to both individuals, companies and governments
+* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
+
+#### cloud foundry
+* [Cloud Foundry](https://www.cloudfoundry.org/): application platform that abstracts away infrastructure 
+
+#### gcp
+* [Google Cloud Platform](https://cloud.google.com/):  lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure
+
+
 ----
 ## database. [(toc)](#toc)
-#### rankings [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
+#### rankings
+* [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
 
     Rank | DBMS          | Model                | Score
     ---: | ---           | ---                  | ---:
@@ -60,14 +72,16 @@
     109  | BaseX         | Native XML DBMS      | 1.37
     163  | Event Store   | Event Store          | 0.61
 
-#### nosql [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
-* [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
-* [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
-* [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
+#### nosql
+* [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
+    * [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
+    * [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
+    * [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
 
 ----
 ## front end. [(toc)](#toc)
-### css [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): Cascading Style Sheets
+### css
+* [Snapshot 2017](https://www.w3.org/TR/CSS/): Cascading Style Sheets
 * [www.w3.org]((https://www.w3.org): World Wide Web Consortium
     * CSS Level 3 builds on CSS Level 2 module by module
     * There is no CSS Level 4. Independent modules can reach level 4 or beyond ...
@@ -114,11 +128,14 @@
     ie      | 11.0.42       | 312
 
 ## languages. [(toc)](#toc)
-### [java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html): world's #1 development platform
-#### [SdkMan](http://sdkman.io/): Software Development Kit Manager (replacing GVM)
+### java 8
+* [overview](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html): world's #1 development platform
+#### SdkMan
+* [Software Development Kit Manager](http://sdkman.io/): replacing GVM (Groovy enVironment Manager)
 
 ## testing. [(toc)](#toc)
-#### performance: [testing](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
+#### performance
+* [testing](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
 * [JMH ](http://openjdk.java.net/projects/code-tools/jmh/): Java harness for building, running, and analysing benchmarks
-#### tdd: [Test-driven_development](https://en.wikipedia.org/wiki/Test-driven_development): evolutionary approach which uses test-first development
-* [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development):
+#### tdd
+* [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development): evolutionary approach which uses test-first development
