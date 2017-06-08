@@ -28,19 +28,17 @@
     * [test-driven development] (#tdd)
 
 ----
-## [cloud](#toc)
-#### [aws](https://aws.amazon.com/)
+## cloud: [toc](#toc)
+#### [aws](https://aws.amazon.com/): Amazon Web Services
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
-#### [gcp](https://cloud.google.com/)
+#### [gcp](https://cloud.google.com/): Google Cloud Platform
 
-#### [docker](https://www.docker.com/)
+#### [docker](https://www.docker.com/): open platform for developers and sysadmins to build, ship, and run distributed applications
 
-#### [fabric8](https://fabric8.io/)
-* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
+#### [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
 
 #### [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
-* [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ----
 ## database
