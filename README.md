@@ -1,23 +1,43 @@
 # frankboller.github.io
 ## Quick Notes
 ### TOC
-* front end
-    * [Angular 4](#angular-4)
-    * [CSS](#css)
-    * [HTML5](#html5)
 * cloud
-    * [AWS](#aws)
+    * [amazon web services](#aws)
+    * [cloud platform](#cloud-platform)
     * [docker](#docker)
     * [fabric8](#fabric8)
+        * [funktion](#funktion)
+        ### [funktion](#toc)
     * [kubernetes](#kubernetes)
+* front end
+    * [cascading style sheets](#css)
+    * [javascript](#javascript)
+        * [Angular 4](#angular-4)
+        * [jQuery](#jquery)
+    * [html5](#html5)
+* languages
+    * [java 8](#java-8)
+    ### [java 8](#toc)
+    * [SdkMan](#sdkman)
+    ### [SdkMan](#toc)
+* testing
+    * [performance] (#performance)
+    * [test-driven development] (#tdd)
 
-### [Angular 4](#toc)
-* [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
-* [Angular 4 Now Available](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html/): invisible-makeover - is now available
-* [What is the difference between 2 and 4](https://www.quora.com/What-is-the-difference-between-Angular-2-and-Angular-4): Semantic versioning
-* [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch): tutorial
-* [Top 8 Resources to Explore](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a): hackernoon
-* [Angular vs React](http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/): What to chose in 2017?
+----
+
+### [AWS](#toc)
+* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
+
+### [cloud platform](#toc)
+
+### [docker](#toc)
+
+### [fabric8](#toc)
+* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
+
+### [kubernetes](#toc)
+* [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ### [CSS](#toc)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
@@ -36,6 +56,18 @@
     * [Difference between .sass and .scss](https://responsivedesign.is/articles/difference-between-sass-and-scss/)
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 
+### [JavaScript](#toc)
+
+#### [Angular 4](#toc)
+* [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
+* [Angular 4 Now Available](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html/): invisible-makeover - is now available
+* [What is the difference between 2 and 4](https://www.quora.com/What-is-the-difference-between-Angular-2-and-Angular-4): Semantic versioning
+* [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch): tutorial
+* [Top 8 Resources to Explore](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a): hackernoon
+* [Angular vs React](http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/): What to chose in 2017?
+
+#### [jQuery](#toc)
+
 ### [HTML5](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
 * [spec](https://www.w3.org/TR/html5/): W3C Recommendation
@@ -51,14 +83,6 @@
     firefox | 53.0.3        | 474
     ie      | 11.0.42       | 312
 
-### [AWS](#toc)
-* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
+### [performance](#toc)
 
-### [docker](#toc)
-
-### [fabric8](#toc)
-* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
-
-### [kubernetes](#toc)
-* [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
-
+### [TDD](#toc)
