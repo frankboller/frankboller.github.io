@@ -28,6 +28,21 @@
     * [test-driven development] (#tdd)
 
 ----
+## cloud
+### [aws](#toc)
+* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
+
+### [gcp](#toc)
+
+### [docker](#toc)
+
+### [fabric8](#toc)
+* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
+
+### [kubernetes](#toc)
+* [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
+
+----
 ## database
 ### [rankings](#toc)
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
@@ -52,21 +67,9 @@
 
 ### [nosql](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
-
-----
-## cloud
-### [aws](#toc)
-* [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
-
-### [gcp](#toc)
-
-### [docker](#toc)
-
-### [fabric8](#toc)
-* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
-
-### [kubernetes](#toc)
-* [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
+    * [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
+    * [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
+    * [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
 
 ----
 ## front end
