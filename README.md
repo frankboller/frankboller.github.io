@@ -33,22 +33,22 @@
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity
 
     Rank | DBMS          | Model                | Score   | (June 2017)
-    ---: | ---           | ---                  | ---: | ---
-    1    | Oracle        | Relational DBMS      | 1351.76
-    5    | MongoDB       | Document store       | 335.00
-    8    | Cassandra     | Wide column store    | 124.12
-    9    | Redis         | Key-value store      | 118.89
-    11   | Elasticsearch | Search engine        | 111.56
-    21   | Neo4j         | Graph DBMS           | 37.87
-    33   | MarkLogic     | Multi-model          | 12.13
-    40   | InfluxDB      | Time Series DBMS     | 8.20
-    57   | Jackrabbit    | Content store        | 4.06
-    59   | Adabas        | Multivalue           | 3.89
-    91   | Jena          | RDF store            | 2.22
-    98   | IMS           | Navigational DBMS    | 1.82
-    106  | Db4o          | Object oriented DBMS | 1.40
-    109  | BaseX         | Native XML DBMS      | 1.37
-    163  | Event Store   | Event Store          | 0.61
+    ---: | ---           | ---                  | ---:    | ---
+    1    | Oracle        | Relational DBMS      | 1351.76 | 
+    5    | MongoDB       | Document store       | 335.00  | 
+    8    | Cassandra     | Wide column store    | 124.12  | 
+    9    | Redis         | Key-value store      | 118.89  | 
+    11   | Elasticsearch | Search engine        | 111.56  | 
+    21   | Neo4j         | Graph DBMS           | 37.87   | 
+    33   | MarkLogic     | Multi-model          | 12.13   | 
+    40   | InfluxDB      | Time Series DBMS     | 8.20    | 
+    57   | Jackrabbit    | Content store        | 4.06    | 
+    59   | Adabas        | Multivalue           | 3.89    | 
+    91   | Jena          | RDF store            | 2.22    | 
+    98   | IMS           | Navigational DBMS    | 1.82    | 
+    106  | Db4o          | Object oriented DBMS | 1.40    | 
+    109  | BaseX         | Native XML DBMS      | 1.37    | 
+    163  | Event Store   | Event Store          | 0.61    | 
 
 ### [nosql](#toc)
 * [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
