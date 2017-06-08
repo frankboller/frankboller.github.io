@@ -4,8 +4,8 @@
 
 [//]: <> (This is a comment)
 * [cloud](#cloud)
-    * [AWS: amazon web services](#aws)
-    * [GCP: cloud platform](#gcp)
+    * [aws: amazon web services](#aws)
+    * [gcp: cloud platform](#gcp)
     * [docker](#docker)
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
@@ -20,15 +20,13 @@
     * [html5](#html5)
 * languages
     * [java 8](#java-8)
-        ### [java 8](#toc)
-    * [SdkMan](#sdkman)
-        ### [SdkMan](#toc)
+    * [sdkman](#sdkman)
 * testing
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
 ----
-## cloud: [toc](#toc)
+## cloud. [(toc)](#toc)
 #### [aws](https://aws.amazon.com/): Amazon Web Services
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
@@ -41,9 +39,8 @@
 #### [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ----
-## database
-#### [rankings](#toc)
-* [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
+## database. [(toc)](#toc)
+#### rankings [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
 
     Rank | DBMS          | Model                | Score
     ---: | ---           | ---                  | ---:
@@ -63,19 +60,18 @@
     109  | BaseX         | Native XML DBMS      | 1.37
     163  | Event Store   | Event Store          | 0.61
 
-#### [nosql](#toc)
-* [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
-    * [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
-    * [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
-    * [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
+#### nosql [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
+* [MongoDB](https://www.mongodb.com/): Document store with proprietary protocol using JSON
+* [Cassandra](http://cassandra.apache.org/): Wide-column store based on ideas of BigTable and DynamoDB
+* [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
 
 ----
-## front end
-### [css](#toc)
-* [CSS Snapshot 2017](https://www.w3.org/TR/CSS/):
+## front end. [(toc)](#toc)
+### css [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): Cascading Style Sheets
+* [www.w3.org]((https://www.w3.org): World Wide Web Consortium
     * CSS Level 3 builds on CSS Level 2 module by module
     * There is no CSS Level 4. Independent modules can reach level 4 or beyond ...
-* [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
+* [Tutorial - W3Schools](https://www.w3schools.com/css/)
 * [The State of CSS Frameworks](https://three29.com/best-css-frameworks-2017/)
     * [Bulma](http://bulma.io/): A modern CSS framework based on Flexbox
     * [Pure.css](https://purecss.io/): A set of small, responsive CSS modules that you can use in every web project.
@@ -88,10 +84,9 @@
     * [Difference between .sass and .scss](https://responsivedesign.is/articles/difference-between-sass-and-scss/)
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 
-----
-### [javascript](#toc)
+### javascript
 
-#### [angular 4](#toc)
+#### angular 4
 * [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
     * [JHipster ](https://jhipster.github.io/): generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices
     * [Visual Studio Code](https://code.visualstudio.com/): code editor optimized for building and debugging modern web and cloud applications
@@ -101,9 +96,9 @@
 * [Top 8 Resources to Explore](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a): hackernoon
 * [Angular vs React](http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/): What to chose in 2017?
 
-#### [jquery](#toc)
+#### jquery
 
-#### [html5](#toc)
+### html5
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML5): markup language used for structuring and presenting content
 * [spec](https://www.w3.org/TR/html5/): W3C Recommendation
 * [Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5): reference page links to numerous resources about HTML5 technologies, classified into several groups based on their function
@@ -118,6 +113,12 @@
     firefox | 53.0.3        | 474
     ie      | 11.0.42       | 312
 
-### [performance](#toc)
+## languages. [(toc)](#toc)
+### [java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html): world's #1 development platform
+#### [SdkMan](http://sdkman.io/): Software Development Kit Manager (replacing GVM)
 
-### [tdd](#toc)
+## testing. [(toc)](#toc)
+#### [performance](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
+* [JMH ](http://openjdk.java.net/projects/code-tools/jmh/): Java harness for building, running, and analysing benchmarks
+#### [tdd](https://en.wikipedia.org/wiki/Test-driven_development): evolutionary approach which uses test-first development
+* [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development):
