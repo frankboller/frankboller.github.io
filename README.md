@@ -2,12 +2,10 @@
 ## Quick Notes
 ### TOC
 * cloud
-    * [amazon web services](#aws)
+    * [aws](#aws amazon web services)
     * [cloud platform](#cloud-platform)
     * [docker](#docker)
     * [fabric8](#fabric8)
-        * [funktion](#funktion)
-        ### [funktion](#toc)
     * [kubernetes](#kubernetes)
 * front end
     * [cascading style sheets](#css)
@@ -17,14 +15,17 @@
     * [html5](#html5)
 * languages
     * [java 8](#java-8)
-    ### [java 8](#toc)
+        ### [java 8](#toc)
     * [SdkMan](#sdkman)
-    ### [SdkMan](#toc)
+        ### [SdkMan](#toc)
+* database
+    * [NoSQL](#nosql)
+        ### [NoSQL](#toc)
 * testing
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
----- aws
+----
 ### [AWS](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
