@@ -3,7 +3,7 @@
 ### TOC
 
 [//]: <> (This is a comment)
-* cloud
+* [cloud](#cloud)
     * [AWS: amazon web services](#aws)
     * [GCP: cloud platform](#gcp)
     * [docker](#docker)
@@ -28,18 +28,18 @@
     * [test-driven development] (#tdd)
 
 ----
-## cloud
-#### [aws](#toc)
+## [cloud](#toc)
+#### [aws](https://aws.amazon.com/)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
-#### [gcp](#toc)
+#### [gcp](https://cloud.google.com/)
 
-#### [docker](#toc)
+#### [docker](https://www.docker.com/)
 
-#### [fabric8](#toc)
+#### [fabric8](https://fabric8.io/)
 * [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
 
-#### [kubernetes](#toc)
+#### [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
 * [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ----
