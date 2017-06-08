@@ -14,7 +14,7 @@
         ### [NoSQL](#toc)
 * front end
     * [cascading style sheets](#css)
-    * [javascript](#js)
+    * [javascript](#javascript)
         * [angular 4](#angular-4)
         * [jquery](#jquery)
     * [html5](#html5)
@@ -27,13 +27,12 @@
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
-[//]: <> (cloud)
-
+## cloud
 ----
-### [AWS](#toc)
+### [aws](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
 
-### [GCP](#toc)
+### [gcp](#toc)
 
 ### [docker](#toc)
 
@@ -64,12 +63,12 @@
 * [Less.js](http://lesscss.org/): backwards-compatible language extension for CSS
 
 ----
-### [js](#toc)
+### [javascript](#toc)
 
 #### [angular 4](#toc)
 * [One framework. - Angular](https://angular.io/) : development platform for building mobile and desktop web applications
-    * [JHipster ](https://jhipster.github.io/): platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices
-    * [Visual Studio Code](https://code.visualstudio.com/): code editor redefined and optimized for building and debugging modern web and cloud applications
+    * [JHipster ](https://jhipster.github.io/): generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices
+    * [Visual Studio Code](https://code.visualstudio.com/): code editor optimized for building and debugging modern web and cloud applications
 * [Angular 4 Now Available](http://angularjs.blogspot.com/2017/03/angular-400-now-available.html/): invisible-makeover - is now available
 * [What is the difference between 2 and 4](https://www.quora.com/What-is-the-difference-between-Angular-2-and-Angular-4): Semantic versioning
 * [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch): tutorial
