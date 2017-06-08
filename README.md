@@ -31,8 +31,27 @@
 ## database
 ### [rankings](#toc)
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity
+
+    Model                | DBMS          | Rank | Score (June 2017)
+    ---                  | ---           | ---  | ---
+    Relational DBMS      | Oracle        | 1    | 1351.76
+    Document store       | MongoDB       | 5    | 335.00
+    Wide column store    | Cassandra     | 8    | 124.12
+    Key-value store      | Redis         | 9    | 118.89
+    Search engine        | Elasticsearch | 11   | 111.56
+    Graph DBMS           | Neo4j         | 21   | 37.87
+    Multi-model          | MarkLogic     | 33   | 12.13
+    Time Series DBMS     | InfluxDB      | 40   | 8.20
+    Content store        | Jackrabbit    | 57   | 4.06
+    Multivalue           | Adabas        | 59   | 3.89
+    RDF store            | Jena          | 91   | 2.22
+    Navigational DBMS    | IMS           | 98   | 1.82
+    Object oriented DBMS | Db4o          | 106  | 1.40
+    Native XML DBMS      | BaseX         | 109  | 1.37
+    Event Store          | Event Store   | 163  | 0.61
+
 ### [nosql](#toc)
-* [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases
+* [Wikipedia](https://en.wikipedia.org/wiki/NoSQL): storage and retrieval of data which is modeled in means other than tabular relations
 
 ----
 ## cloud
