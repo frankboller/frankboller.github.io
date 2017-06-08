@@ -27,6 +27,7 @@
     * [performance] (#performance)
     * [test-driven development] (#tdd)
 
+[//]: <> (cloud)
 ----
 ### [AWS](#toc)
 * [Free Tier](https://aws.amazon.com/free/): enables you to gain free, hands-on experience with AWS platform, products, and services
@@ -41,6 +42,7 @@
 ### [kubernetes](#toc)
 * [kubernetes.io](https://kubernetes.io/): Production-Grade Container Orchestration
 
+[//]: <> (front end)
 ----
 ### [CSS](#toc)
 * [CSS Snapshot 2017](https://www.w3.org/TR/CSS/): 
