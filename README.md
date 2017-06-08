@@ -24,17 +24,20 @@
     * [java 8](#java-8)
     * [sdkman](#sdkman)
 * [testing](#testing-toc)
-    * [performance] (#performance)
-    * [test-driven development] (#tdd)
+    * [performance](#performance)
+    * [test-driven development](#tdd)
 
 ----
 ## cloud frameworks. [(toc)](#toc)
 
-#### [docker](https://www.docker.com/): open platform for developers and sysadmins to build, ship, and run distributed applications
+#### docker
+* [docker](https://www.docker.com/): open platform for developers and sysadmins to build, ship, and run distributed applications
 
-#### [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
+#### fabric8
+* [fabric8](https://fabric8.io/): Integrated Development Platform for Kubernetes
 
-#### [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
+#### kubernetes
+* [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
 
 ## cloud platforms. [(toc)](#toc)
 
