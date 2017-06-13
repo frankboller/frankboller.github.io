@@ -1,5 +1,5 @@
 # frankboller.github.io
-## Quick Notes
+## Quick Notes.
 ### TOC
 
 [//]: <> (This is a comment)
