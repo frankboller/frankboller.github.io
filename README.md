@@ -5,6 +5,7 @@ layout: default
 # frankboller.github.io
 ## Quick Notes
 ### TOC
+## Table of Contents
 
 [//]: <> (This is a comment)
 * [cloud frameworks](#cloud-frameworks-toc)
