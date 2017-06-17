@@ -3,10 +3,11 @@ layout: default
 ---
 
 # frankboller.github.io
-<h2>Quick Notes</h2>
+<h4>Quick Notes</h4>
 
 [//]: <> (This is a comment)
 
+___
 ## Table of Contents
 
 * cloud frameworks
@@ -33,7 +34,6 @@ layout: default
     * [performance](#performance)
     * [test-driven development](#tdd)
 
-### start here
 ----
 ## cloud frameworks.
 
