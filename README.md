@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # frankboller.github.io
 ## Quick Notes
 ### TOC
