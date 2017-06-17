@@ -3,11 +3,12 @@ layout: default
 ---
 
 # frankboller.github.io
-## Quick Notes
-### TOC
+<h2>Quick Notes</h2>
+
+[//]: <> (This is a comment)
+
 ## Table of Contents
 
-<!-- [//]: <> (This is a comment) -->
 * cloud frameworks
     * [docker](#docker)
     * [fabric8](#fabric8)
@@ -32,6 +33,7 @@ layout: default
     * [performance](#performance)
     * [test-driven development](#tdd)
 
+### start here
 ----
 ## cloud frameworks.
 
