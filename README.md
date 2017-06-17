@@ -1,41 +1,34 @@
----
-layout: default
----
-
 # frankboller.github.io
-<h4>Quick Notes</h4>
+## Quick Notes
+### TOC
 
 [//]: <> (This is a comment)
-
-___
-## Table of Contents
-
-* cloud frameworks
+* [cloud frameworks](#cloud-frameworks-toc)
     * [docker](#docker)
     * [fabric8](#fabric8)
     * [kubernetes](#kubernetes)
-* cloud platforms
+* [cloud platforms](#cloud-platforms-toc)
     * [aws: amazon web services](#aws)
     * [cloud foundry](#cloud-foundry)
     * [gcp: cloud platform](#gcp)
-* database
+* [database](#database-toc)
     * [rankings](#rankings)
     * [NoSQL](#nosql)
-* front end
+* [front end](#front-end-toc)
     * [cascading style sheets](#css)
     * [javascript](#javascript)
         * [angular 4](#angular-4)
         * [jquery](#jquery)
     * [html5](#html5)
-* languages
+* [languages](#languages-toc)
     * [java 8](#java-8)
     * [sdkman](#sdkman)
-* testing
+* [testing](#testing-toc)
     * [performance](#performance)
     * [test-driven development](#tdd)
 
 ----
-## cloud frameworks.
+## cloud frameworks. [(toc)](#toc)
 
 #### docker
 * [docker](https://www.docker.com/): open platform for developers and sysadmins to build, ship, and run distributed applications
@@ -46,7 +39,7 @@ ___
 #### kubernetes
 * [kubernetes](https://kubernetes.io/): Production-Grade Container Orchestration
 
-## cloud platforms.
+## cloud platforms. [(toc)](#toc)
 
 #### aws
 * [Amazon Web Services](https://aws.amazon.com/):  provides on-demand cloud computing platforms to both individuals, companies and governments
@@ -60,7 +53,7 @@ ___
 
 
 ----
-## database.
+## database. [(toc)](#toc)
 #### rankings
 * [DB-Engines Ranking](https://db-engines.com/en/ranking): ranks database management systems according to their popularity (June 2017)
 
@@ -89,7 +82,7 @@ ___
     * [Redis](https://redis.io/): In-memory data structure store, used as database, cache and message broker
 
 ----
-## front end.
+## front end. [(toc)](#toc)
 ### css
 * [Snapshot 2017](https://www.w3.org/TR/CSS/): Cascading Style Sheets
 * [www.w3.org]((https://www.w3.org): World Wide Web Consortium
@@ -137,13 +130,13 @@ ___
     firefox | 53.0.3        | 474
     ie      | 11.0.42       | 312
 
-## languages.
+## languages. [(toc)](#toc)
 ### java 8
 * [overview](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html): world's #1 development platform
 #### SdkMan
 * [Software Development Kit Manager](http://sdkman.io/): replacing GVM (Groovy enVironment Manager)
 
-## testing.
+## testing. [(toc)](#toc)
 #### performance
 * [testing](https://en.wikipedia.org/wiki/Software_performance_testing): determine how a system performs in terms of responsiveness and stability under a particular workload
 * [JMH ](http://openjdk.java.net/projects/code-tools/jmh/): Java harness for building, running, and analysing benchmarks
